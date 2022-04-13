@@ -22,3 +22,6 @@ This is list of ordered things
 Git is amazing!
 
 # Thank you everyone!
+
+
+Adding a new feature!
